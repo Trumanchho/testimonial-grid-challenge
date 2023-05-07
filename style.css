@@ -11,7 +11,7 @@ body {
     font-weight: 500;
 }
 
-#main {
+main {
     padding: 10% 3%;
 }
 
@@ -77,7 +77,7 @@ body {
 }
 
 @media (min-width: 576px) {
-    #main {
+    main {
         display: flex;
         flex-direction: column;
     }
@@ -108,7 +108,7 @@ body {
 }
 
 @media (min-width: 925px) {
-    #main {
+    main {
         flex-direction: row;
         max-width: 1250px;
         margin: 0 auto;
